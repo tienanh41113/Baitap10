@@ -1,0 +1,8 @@
+﻿<Window x:Class="AppOOP.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="150.064" Width="218.577">
+    <Grid>
+        <Button x:Name="btnTalk" Content="Talk" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="65,48,0,0" Click="btnTalk_Click"/>
+    </Grid>
+</Window>
